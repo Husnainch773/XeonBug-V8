@@ -1,35 +1,35 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
-//Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//YouTube: 
+//Telegram: 
+//GitHub: 
+//WhatsApp: 
+//want more free bot scripts? subscribe to my youtube channel:
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "971557649104"
-global.ownername = "Qasim Ali"
-global.ytname = "YT: GlobalTechInfo"
-global.socialm = "GitHub: GlobalTechInfo"
+global.ownername = "Mahar Husnain"
+global.ytname = "YT: Husnain Information 73"
+global.socialm = "GitHub: Husnainch773"
 global.location = "Pakistan, Karachi, Karachi"
 
 global.ownernumber = '971557649104'  //creator number
-global.ownername = 'Qasim Ali' //owner name
+global.ownername = 'Mahar Husnain' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = 'Husnain: 971557649104'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Global Bot"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.link = ''
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -39,9 +39,9 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
+global.autobio = "true" //auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = false //auto view status/story
+global.autoswview = "true" //auto view status/story
 
 //menu type 
 //v1 is image menu, 
